@@ -1,5 +1,5 @@
-this project intend to interpret American Sign Language (ASL). this project use CLAHE preprocessing
-run detect.py and choose the model. nano.pt is recommended as it gives the best result
+this project intend to interpret American Sign Language (ASL). this project use CLAHE preprocessing.
+Run detect.py and choose the model. nano.pt is recommended as it gives the best result
 below is the ASL image
 
 ![image](https://github.com/Parasian14/ASL-YOLOV8/assets/53012675/0722e5fc-37f5-459a-ae90-4fc9f450b54e)
